@@ -1,0 +1,49 @@
+/* Default (Light mode) */
+body {
+  background-color: white;
+  color: #1e293b; /* slate-900 */
+}
+
+/* Input, Textarea, Select */
+textarea,
+input,
+select {
+  background-color: rgba(255, 255, 255, 0.8);
+  color: #1e293b;
+  border-color: #c7d2fe; /* indigo-200 */
+}
+
+/* Button (Always same look in both modes) */
+button {
+  background-color: #4f46e5; /* indigo-600 */
+  color: white;
+  border: none;
+}
+
+button:hover {
+  background-color: #4338ca; /* indigo-700 */
+}
+
+/* Dark Mode */
+.dark body {
+  background-color: #0f172a; /* slate-900 */
+  color: #f1f5f9; /* slate-100 */
+}
+
+.dark textarea,
+.dark input,
+.dark select {
+  background-color: #1e293b; /* slate-800 */
+  color: #f1f5f9;
+  border-color: #818cf8; /* indigo-400 */
+}
+
+/* Button remains same in dark mode */
+.dark button {
+  background-color: #4f46e5; /* same */
+  color: white;
+}
+
+.dark button:hover {
+  background-color: #4338ca;
+}
