@@ -1,8 +1,6 @@
 ## ✨ PostGuru : Your AI-Powered Social Media Assistant
 
-Welcome to **PostGuru**, your intelligent assistant for crafting professional, engaging, and personalized social media posts.  
-Just enter a **topic**, choose the **tone**, pick your **platform** (Twitter, LinkedIn, or Instagram) — and let the AI handle the rest!  
-Whether you're a creator, marketer, freelancer, or business, **PostGuru** helps you create impactful posts in seconds.
+Welcome to **PostGuru**, your intelligent assistant for crafting professional, engaging, and personalized social media posts. Just enter a topic, choose the tone and platform — and let the AI do the magic! Whether you want to post on Twitter, LinkedIn, or Instagram, PostGen AI generates high-quality content in seconds.
 
 ---
 
@@ -55,3 +53,8 @@ The AI will generate engaging posts tailored to your input!
 
 <br>
 
+
+
+## 📬 Connect With Me
+
+- **LinkedIn** - [Harsh Raj](https://www.linkedin.com/in/harsh-raj-78a3a414b/)
