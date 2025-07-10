@@ -314,7 +314,7 @@ function App() {
             crafting professional, engaging, and personalized social media
             posts. Just enter a topic, choose the tone and platform — and let
             the AI do the magic! Whether you want to post on Twitter, LinkedIn,
-            or Instagram, PostGen AI generates high-quality content in seconds.
+            or Instagram, PostGen AI generates high qualities content in seconds.
           </p>
         </section>
 
